@@ -13,6 +13,7 @@ public class Employee implements Serializable {
 	private double comm;
 	private int deptno;
 	private int test;
+	private String master-testmerg;
 	public Employee() {
 	}
 	
